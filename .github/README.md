@@ -74,7 +74,7 @@ mv ~/.config/nvim ~/.config/nvimbackup
 #### Clone the repository
 
 ```
-git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+git clone https://github.com/SamuelWK/AstroNvim ~/.config/nvim
 nvim +PackerSync
 ```
 
